@@ -19,12 +19,15 @@
 // else{
 //     console.log("not eligible for vote");
 // }
-let data = "a"
-switch (data) {
-    case "a":
-        console.log("a is selected");
-        break;
-    default:
-        console.log("not selected");
-        break;
+// let data = "a"
+// switch (data) {
+//     case "a":
+//         console.log("a is selected");
+//         break;
+//     default:
+//         console.log("not selected");
+//         break;
+// }
+function add(a, b) {
+    return a + b;
 }
